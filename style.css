@@ -107,6 +107,7 @@ body {
 #faqs details p {
   color: var(--color-grayish-purple);
   font-size: 1.25rem;
+  font-weight: 400;
 }
 
 /* Custom arrow for close state */
